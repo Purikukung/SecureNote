@@ -1,0 +1,5 @@
+# Dependencies
+node_modules/
+
+# Environment Variables (สำคัญมาก ห้ามเอาไฟล์นี้ขึ้น Git เด็ดขาด!)
+.env
